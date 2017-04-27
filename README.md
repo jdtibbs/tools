@@ -32,6 +32,7 @@ Listed order means nothing.
 #### Reactive Programming
 * [most](https://github.com/cujojs/most)
 * [RxJS](https://github.com/ReactiveX/rxjs)
+* [rxMarbles](http://rxmarbles.com/#delay)
 * [xstream](https://github.com/staltz/xstream)
 
 #### Templating
@@ -44,10 +45,18 @@ Listed order means nothing.
 
 #### Web frameworks
 * [catberry](https://github.com/catberry/catberry)
+* [cyclejs](https://github.com/cyclejs/cyclejs)
+ * [motorcycle](https://github.com/motorcyclejs/motorcyclejs)
+ * read
+   * [model-view-intent](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom)
 * [express](http://expressjs.com/)
 * [feathers](https://github.com/feathersjs/feathers)
 * [koa](http://koajs.com/)
 * [MEARN](http://mern.io/)
 * [next.js](https://github.com/zeit/next.js) - *
+* [react](https://facebook.github.io/react/)
+ * [react-fiber](https://github.com/acdlite/react-fiber-architecture)
+ * [relay](https://facebook.github.io/relay/)
 * [restify](http://restify.com/)
 * [thinkjs](https://github.com/thinkjs/thinkjs)
+* [virtual-dom](https://github.com/Matt-Esch/virtual-dom)

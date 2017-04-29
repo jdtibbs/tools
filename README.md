@@ -1,4 +1,4 @@
-# Tools I am using or are of interest.
+# Tools used or of interest.
 
 Listed order means nothing.
 
@@ -46,6 +46,8 @@ Listed order means nothing.
 #### Web frameworks
 * [catberry](https://github.com/catberry/catberry)
 * [cyclejs](https://github.com/cyclejs/cyclejs)
+ * [try cyclejs](http://widdersh.in/tricycle/)
+ * [create-cycle-app](https://github.com/cyclejs-community/create-cycle-app)
  * [motorcycle](https://github.com/motorcyclejs/motorcyclejs)
  * read
    * [model-view-intent](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom)

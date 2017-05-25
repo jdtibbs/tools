@@ -17,6 +17,7 @@ Listed order means nothing.
 #### Functional Programming
 * [immutable](https://github.com/facebook/immutable-js)
 * [ramda](http://ramdajs.com/)
+* [monet](https://github.com/monet/monet.js)
 
 #### HTTP
 * [axios](https://github.com/mzabriskie/axios) - node.js or browser

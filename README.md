@@ -55,7 +55,7 @@ Listed order means nothing.
 * [express](http://expressjs.com/)
 * [feathers](https://github.com/feathersjs/feathers)
 * [koa](http://koajs.com/)
-* [MEARN](http://mern.io/)
+* [MERN](http://mern.io/)
 * [next.js](https://github.com/zeit/next.js) - *
 * [react](https://facebook.github.io/react/)
  * [react-fiber](https://github.com/acdlite/react-fiber-architecture)
